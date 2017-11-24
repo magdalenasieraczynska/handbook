@@ -1,5 +1,8 @@
 # Radgost Handbook
 
+## Formatowanie kodu 
+*.rb - 2 spacje
+*.erb - 1 tab 
 
 
 # Inspiracje
