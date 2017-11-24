@@ -1,7 +1,7 @@
 # Radgost Handbook
 
 ## Styl pisania w Ruby
-https://github.com/airbnb/ruby
+https://github.com/radgost/ruby
 
 ## Formatowanie kodu 
 
