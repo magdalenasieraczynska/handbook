@@ -11,4 +11,4 @@ https://github.com/radgost/ruby
 ```
 
 # Inspiracje
-https://github.com/basecamp/handbook
+https://github.com/radgost/37signals-handbook
