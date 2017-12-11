@@ -10,7 +10,7 @@ https://github.com/radgost/ruby
 * "skomplikowane" (fioletowe) - sprawdzający nie chce tego mergować - to obgadania
 * "na przyszłość" (jasny fiolet) - sprawdzający nie chce tego mergować - to obgadania
 * "konflikty" (jasno czerwone) - konflikty do poprawy
-* "wgrane /u" (niebieskie) - na serwerze
+* "wgrane /u" (zielone) - na serwerze
 
 Komentarze do kodu i PR piszemy po polsku 
 
