@@ -5,12 +5,12 @@ https://github.com/radgost/ruby
 
 ## Statusy PR
 
-* DO POPRAWKI (czerwone) - wymagane poprawki - opisane w komentarzach
-* POPRAWIONE (zielone) - poprawki poprawione - można sprawdzić i ew. mergować
-* SKOMPLIKOWANE (pomorańczowe) - sprawdzający nie chce tego mergować - to obgadania
-* NA PRZYSZŁOŚĆ (szare) - sprawdzający nie chce tego mergować - to obgadania
-* KONFLIKTY (żółte) - konflikty do porawki
-* WGRANE /U (niebieskie) - na serwerze
+* "do poprawy" (czerwone) - wymagane poprawki - opisane w komentarzach
+* "poprawione" (zółte) - poprawki poprawione - można sprawdzić i ew. mergować
+* "skomplikowane" (fioletowe) - sprawdzający nie chce tego mergować - to obgadania
+* "na przyszłość" (jasny fiolet) - sprawdzający nie chce tego mergować - to obgadania
+* "konflikty" (jasno czerwone) - konflikty do poprawy
+* "wgrane /u" (niebieskie) - na serwerze
 
 Komentarze do kodu piszemy po polsku 
 
