@@ -12,7 +12,7 @@ https://github.com/radgost/ruby
 * "konflikty" (jasno czerwone) - konflikty do poprawy
 * "wgrane /u" (niebieskie) - na serwerze
 
-Komentarze do kodu piszemy po polsku 
+Komentarze do kodu i PR piszemy po polsku 
 
 ## Formatowanie kodu 
 
