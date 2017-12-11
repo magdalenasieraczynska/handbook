@@ -3,10 +3,10 @@
 ## Statusy PR
 
 * "do poprawy" (czerwone) - wymagane poprawki - opisane w komentarzach
+* "konflikty" (jasno czerwone) - konflikty do poprawy
 * "poprawione" (zółte) - poprawki poprawione - można sprawdzić i ew. mergować
 * "skomplikowane" (fioletowe) - sprawdzający nie chce tego mergować - to obgadania
 * "na przyszłość" (jasny fiolet) - sprawdzający nie chce tego mergować - to obgadania
-* "konflikty" (jasno czerwone) - konflikty do poprawy
 * "wgrane /u" (zielone) - na serwerze
 
 Komentarze do kodu i PR piszemy w jezyku polskim
