@@ -1,8 +1,5 @@
 # Radgost Handbook
 
-## Styl pisania w Ruby
-https://github.com/radgost/ruby
-
 ## Statusy PR
 
 * "do poprawy" (czerwone) - wymagane poprawki - opisane w komentarzach
@@ -20,6 +17,9 @@ Komentarze do kodu i PR piszemy w jezyku polskim
 *.rb - 2 spacje
 *.erb - 1 tab 
 ```
+
+## Styl pisania w Ruby
+https://github.com/radgost/ruby
 
 # Inspiracje
 https://github.com/radgost/37signals-handbook
