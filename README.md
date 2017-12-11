@@ -9,7 +9,7 @@
 * "na przyszłość" (jasny fiolet) - odłożone na przyszłość
 * "wgrane /u" (zielone) - na serwerze
 
-Komentarze do kodu i PR piszemy w jezyku polskim
+Komentarze do kodu i PR piszemy w języku polskim
 
 ## Formatowanie kodu 
 
