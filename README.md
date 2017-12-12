@@ -29,5 +29,5 @@ Komentarze do kodu i PR piszemy w języku polskim
 https://github.com/radgost/ruby
 
 # Inspiracje
-http://nvie.com/posts/a-successful-git-branching-model
-https://github.com/radgost/37signals-handbook
+* http://nvie.com/posts/a-successful-git-branching-model
+* https://github.com/radgost/37signals-handbook
