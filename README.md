@@ -1,5 +1,11 @@
 # Radgost Handbook
 
+## Brancze
+
+* "master" - na nim jest kod który jest też na produkcji
+* "develop" - kod developowany, który trafia na mastera i później na produkcję
+* "test" - każdy PR do develop jest tam odrazu mergowany i na serwerze testowym można przetestować aktualne funkcjonalności (TODO)
+
 ## Statusy PR
 
 * "do poprawy" (jasno czerwone) - wymagane poprawki - opisane w komentarzach
@@ -23,4 +29,5 @@ Komentarze do kodu i PR piszemy w języku polskim
 https://github.com/radgost/ruby
 
 # Inspiracje
+http://nvie.com/posts/a-successful-git-branching-model
 https://github.com/radgost/37signals-handbook
