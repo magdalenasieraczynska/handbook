@@ -26,7 +26,7 @@ Komentarze do kodu i PR piszemy w języku polskim
 ```
 
 ## Styl pisania w Ruby
-https://github.com/radgost/ruby
+https://github.com/airbnb/ruby (gdyby zniknęło to jest fork https://github.com/radgost/ruby)
 
 # Inspiracje
 * http://nvie.com/posts/a-successful-git-branching-model
