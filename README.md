@@ -2,9 +2,9 @@
 
 ## Brancze
 
-* "master" - na nim jest kod który jest też na produkcji
+* "master" - na nim jest kod, który jest też na produkcji
 * "develop" - kod developowany, który trafia na mastera i później na produkcję
-* "test" - każdy PR do develop jest tam odrazu mergowany i na serwerze testowym można przetestować aktualne funkcjonalności (TODO)
+* "test" - każdy PR do develop jest tam od razu mergowany (automatycznie?) i na serwerze testowym można przetestować aktualne funkcjonalności (TODO)
 
 ## Statusy PR
 
