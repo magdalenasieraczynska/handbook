@@ -15,6 +15,7 @@
 * "na przyszłość" (jasny fiolet) - odłożone na przyszłość
 * "wgrane /u" (zielone) - na serwerze
 * "bardzo ważne" (czerwone) - dodaje twórca PR gdy chce aby bardzo szybko został on zmergowany i wgrany
+* "do wgrania w nocy" (niebieskie) - dodaje twórca PR gdy np. jest migracja na bazie obciązająca serwer i lepiej wgrać ją w nocy
 
 Komentarze do kodu i PR piszemy w języku polskim
 
