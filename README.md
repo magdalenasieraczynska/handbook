@@ -22,7 +22,7 @@ Komentarze do kodu i PR piszemy w języku polskim
 
 ## Edytor kodu 
 
-Używamy edytora Sublime 3. Ważne sktóry które warto znać
+Używamy edytora Sublime 3. Skróty, które warto znać:
 * wyszukiwanie pliku po nazwie: CMD + T
 * wyszukiwanie metody w pliku: CMD + R
 * przechodzenie do linii : CMD + R
