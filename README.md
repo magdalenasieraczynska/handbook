@@ -20,13 +20,22 @@
 
 Komentarze do kodu i PR piszemy w języku polskim
 
-## Edytor kodu 
+## Narzędzia / programy
+
+* https://www.sublimetext.com/3
+* https://desktop.github.com/
+* http://www.psequel.com/ do Postgres
+* https://www.sequelpro.com/ do MySQL
+
+### Edytor kodu
 
 Używamy edytora Sublime 3. Skróty, które warto znać:
 * wyszukiwanie pliku po nazwie: CMD + T
 * wyszukiwanie metody w pliku: CMD + R
 * przechodzenie do linii : CMD + R
 * przechodzenie w całym projekcie : SHIFT + CMD + F
+
+### Bazy danych
 
 ## Formatowanie kodu 
 
