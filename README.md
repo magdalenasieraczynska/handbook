@@ -23,6 +23,7 @@ Komentarze do kodu i PR piszemy w języku polskim
 ## Narzędzia / programy
 
 * https://www.sublimetext.com/3
+* http://pow.cx/
 * https://desktop.github.com/
 * http://www.psequel.com/ do Postgres
 * https://www.sequelpro.com/ do MySQL
