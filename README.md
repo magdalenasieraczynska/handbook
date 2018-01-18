@@ -39,7 +39,8 @@ Używamy edytora Sublime 3. Skróty, które warto znać:
 * wyszukiwanie pliku po nazwie: CMD + T
 * wyszukiwanie metody w pliku: CMD + R
 * przechodzenie do linii : CMD + R
-* przechodzenie w całym projekcie : SHIFT + CMD + F
+* wyszukiwanie w całym projekcie : SHIFT + CMD + F
+* uruchanianie pluginów: CMD + SHIFT + P (lub instalacja nowych - trzeba wpisać "install...")
 
 ### Bazy danych
 
