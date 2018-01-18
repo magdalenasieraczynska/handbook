@@ -28,7 +28,7 @@ Komentarze do kodu i PR piszemy w języku polskim
 * https://www.sequelpro.com/ do MySQL
 * http://pow.cx/
 
-fix do pow.cx (aby pogazywał poprawnię błędy w aplikacji zamiaste "end of file..."): 
+fix do pow.cx (aby pokazywał poprawnie błędy w aplikacji zamiast "End of file reached"): 
 ```
 curl -L https://gist.githubusercontent.com/RobinDaugherty/2731f20d303e6506d451384df2189210/raw/b52e6231170b3... | patch ~/Library/Application\ Support/Pow/Versions/0.6.0/node_modules/nack/lib/nack/server.rb
 ```
