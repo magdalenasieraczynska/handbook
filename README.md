@@ -30,7 +30,9 @@ Komentarze do kodu i PR piszemy w języku polskim
 
 ```
 ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
-# aby mozna bylo z terminal odpalac
+
+# aby mozna bylo z terminal odpalac:
+
 subl .
 ```
 
