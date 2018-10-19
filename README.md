@@ -20,6 +20,10 @@
 
 Komentarze do kodu i PR piszemy w języku polskim
 
+## Instalacja środowiska na MacOS
+
+* https://github.com/radgost/handbook/edit/master/instalacja.md
+
 ## Narzędzia / programy
 
 * https://www.sublimetext.com/3
