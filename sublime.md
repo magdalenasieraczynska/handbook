@@ -11,6 +11,18 @@ Sublime > Preferences > Color Scheme > Mac Classic
 
 aby linki po bledach w przegladarce na DEV byly klikalne trzeba przeniesc do Applications apke z Subl.app.zip i uruchomic (dziala z Sublime 3 i 2) (apka sie od razu zamknie ale i tak linki zaczną działać - sprawdzon na Mac Book Air 2015.04.10 i Mac Book PRO 2015)
 
+
+## Edytor kodu
+
+Używamy edytora Sublime 3. Skróty, które warto znać:
+* wyszukiwanie pliku po nazwie: CMD + T
+* wyszukiwanie metody w pliku: CMD + R
+* przechodzenie do linii : CMD + R
+* wyszukiwanie w całym projekcie : SHIFT + CMD + F
+* uruchanianie pluginów: CMD + SHIFT + P (lub instalacja nowych - trzeba wpisać "install...")
+
+
+
 ## Pluginy do Sublime
 
 Formatowanie kodu Ruby i ERB:
