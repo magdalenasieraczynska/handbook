@@ -10,7 +10,7 @@
 xcode-select --install
 ```
 
-* instalacja Homebrew https://brew.sh/
+## instalacja Homebrew https://brew.sh/
 
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -19,7 +19,7 @@ brew update
 ```
 
 
-* instalacja języka Ruby
+## instalacja języka Ruby
 
 ```
 rbenv install -l #list ruby versions
@@ -34,7 +34,7 @@ ruby -v
 
 ```
 
-* instalacja Pow http://pow.cx/
+## instalacja Pow http://pow.cx/
 
 ```
 brew install pow
@@ -65,6 +65,8 @@ teraz można odpalić:
 http://radgost.test
 
 
+## Bazy danych 
+
 * PostgreSQL
 ```
 brew install postgresql@9.5
@@ -91,7 +93,7 @@ percona
 brew install percona-toolkit
 ```
 
-* inne
+# inne
 ```
 brew install imagemagick
 brew install Caskroom/cask/wkhtmltopdf 
@@ -99,6 +101,6 @@ brew install mc
 
 ```
 
-* Narzędzia i programy
+# Narzędzia i programy
 https://github.com/radgost/handbook#narz%C4%99dzia--programy
 
