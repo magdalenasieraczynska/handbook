@@ -99,6 +99,6 @@ brew install mc
 
 ```
 
-* Narzędzia i programiy
+* Narzędzia i programy
 https://github.com/radgost/handbook#narz%C4%99dzia--programy
 
