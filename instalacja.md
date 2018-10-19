@@ -104,8 +104,7 @@ brew install percona-toolkit
 
 # inne
 ```
-brew install imagemagick
-brew install Caskroom/cask/wkhtmltopdf 
+??? brew install imagemagick
 brew install mc
 
 ```
