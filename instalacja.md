@@ -74,18 +74,15 @@ echo 'max_allowed_packet=64M' >> /usr/local/etc/my.cnf
 
 ```
 
-* percona
+percona
 ```
 brew install percona-toolkit
 ```
-
-
 
 * inne
 ```
 brew install imagemagick
 brew install Caskroom/cask/wkhtmltopdf 
-brew install percona-toolkit
 brew install mc
 
 ```
