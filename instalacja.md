@@ -52,6 +52,18 @@ pow --install-local
 curl -L https://gist.githubusercontent.com/RobinDaugherty/2731f20d303e6506d451384df2189210/raw/b52e6231170b3dce39633db29634dc892751910f/pow_better_errors_fix.patch | patch ~/Library/Application\ Support/Pow/Versions/0.6.0/node_modules/nack/lib/nack/server.rb
 
 ```
+projekty
+
+```
+cd
+mkdir projects
+mkkir projects/radgost
+cd ~/.pow; ln -s ~/projects/radgost
+
+```
+teraz można odpalić:
+http://radgost.test
+
 
 * PostgreSQL
 ```
