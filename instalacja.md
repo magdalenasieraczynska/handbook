@@ -69,7 +69,7 @@ http://radgost.test
 
 * PostgreSQL
 ```
-brew install postgresql@9.5
+brew install postgresql@9.6
 ```
 * MySQL
 
