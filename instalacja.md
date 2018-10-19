@@ -34,5 +34,18 @@ ruby -v
 
 ```
 
+* instalacja Pow http://pow.cx/
+
+```
+brew install pow
+
+# Create the required host directories:
+mkdir -p ~/Library/Application\ Support/Pow/Hosts
+  ln -s ~/Library/Application\ Support/Pow/Hosts ~/.pow
+
+# Setup port 80 forwarding and launchd agents:
+  sudo pow --install-system
+  pow --install-local
+
 * inne
 brew install mc
