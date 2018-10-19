@@ -74,6 +74,12 @@ echo 'max_allowed_packet=64M' >> /usr/local/etc/my.cnf
 
 ```
 
+* percona
+```
+brew install percona-toolkit
+```
+
+
 
 * inne
 ```
