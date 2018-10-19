@@ -57,7 +57,7 @@ projekty
 ```
 cd
 mkdir projects
-mkkir projects/radgost
+mkdir projects/radgost
 cd ~/.pow; ln -s ~/projects/radgost
 
 ```
