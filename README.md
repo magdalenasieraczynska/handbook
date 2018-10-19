@@ -28,6 +28,8 @@ Komentarze do kodu i PR piszemy w języku polskim
 
 * https://www.sublimetext.com/3
 
+preferncje: Sublime > Preferences > Color Scheme > Mac Classic
+
 ```
 ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
 
