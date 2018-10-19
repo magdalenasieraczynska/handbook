@@ -26,27 +26,11 @@ Komentarze do kodu i PR piszemy w języku polskim
 
 ## Narzędzia / programy
 
-* https://www.sublimetext.com/3 ustawienia: https://github.com/radgost/handbook/blob/master/sublime.md
+* https://www.sublimetext.com/3 konfiguracja: https://github.com/radgost/handbook/blob/master/sublime.md
 * https://desktop.github.com/
 * http://www.psequel.com/ do Postgres
 * https://www.sequelpro.com/ do MySQL
-* http://pow.cx/
-
-fix do pow.cx (aby pokazywał poprawnie błędy w aplikacji zamiast "End of file reached"): 
-```
-curl -L https://gist.githubusercontent.com/RobinDaugherty/2731f20d303e6506d451384df2189210/raw/b52e6231170b3dce39633db29634dc892751910f/pow_better_errors_fix.patch | patch ~/Library/Application\ Support/Pow/Versions/0.6.0/node_modules/nack/lib/nack/server.rb 
-```
-
-### Edytor kodu
-
-Używamy edytora Sublime 3. Skróty, które warto znać:
-* wyszukiwanie pliku po nazwie: CMD + T
-* wyszukiwanie metody w pliku: CMD + R
-* przechodzenie do linii : CMD + R
-* wyszukiwanie w całym projekcie : SHIFT + CMD + F
-* uruchanianie pluginów: CMD + SHIFT + P (lub instalacja nowych - trzeba wpisać "install...")
-
-### Bazy danych
+* http://pow.cx/ konfiguracja: https://github.com/radgost/handbook/blob/master/instalacja.md#instalacja-pow-httppowcx
 
 ## Formatowanie kodu 
 
