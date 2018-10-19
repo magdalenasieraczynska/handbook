@@ -27,6 +27,13 @@ Komentarze do kodu i PR piszemy w języku polskim
 ## Narzędzia / programy
 
 * https://www.sublimetext.com/3
+
+```
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+# aby mozna bylo z terminal odpalac
+subl .
+```
+
 * https://desktop.github.com/
 * http://www.psequel.com/ do Postgres
 * https://www.sequelpro.com/ do MySQL
