@@ -58,3 +58,6 @@ curl -L https://gist.githubusercontent.com/RobinDaugherty/2731f20d303e6506d45138
 brew install mc
 ```
 
+* Narzędzia i programiy
+https://github.com/radgost/handbook#narz%C4%99dzia--programy
+
