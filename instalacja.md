@@ -74,7 +74,7 @@ echo 'export PATH="/usr/local/opt/postgresql@9.6/bin:$PATH"' >> ~/.bash_profile
 brew services start postgresql@9.6
 
 # po tym powinno zadzialac podlaczenie do bazy 
-
+postgres -V
 psql postgres
 
 ```
