@@ -10,7 +10,7 @@
 xcode-select --install
 ```
 
-* instalacja Homebrew
+* instalacja Homebrew https://brew.sh/
 
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -25,6 +25,13 @@ brew update
 rbenv install -l #list ruby versions
 rbenv install 2.5.2 #uwaga tu nalezy sprawdzic jaka jest najwieksza wersja 
 rbenv global 2.5.2
+
+echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.bash_profile
+source ~/.bash_profile
+
+# w nowym oknie termala powinna byc juz nowa wersja rubiego
+ruby -v
+
 ```
 
 * inne
