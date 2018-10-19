@@ -53,9 +53,35 @@ curl -L https://gist.githubusercontent.com/RobinDaugherty/2731f20d303e6506d45138
 
 ```
 
+* PostgreSQL
+```
+brew install postgresql@9.5
+```
+* MySQL
+
+```
+brew install mysql@5.6
+
+#wstawic do ~/.bash_profile aby dzialalo polecenie mysql:
+echo 'export PATH="/usr/local/opt/mysql@5.6/bin:$PATH"' >> ~/.bash_profile
+
+brew services start mysql@5.6
+
+cp /usr/local/Cellar/mysql\@5.6/5.6.36_1/support-files/my-default.cnf /usr/local/etc/my.cnf 
+
+echo 'max_allowed_packet=64M' >> /usr/local/etc/my.cnf
+
+
+```
+
+
 * inne
 ```
+brew install imagemagick
+brew install Caskroom/cask/wkhtmltopdf 
+brew install percona-toolkit
 brew install mc
+
 ```
 
 * Narzędzia i programiy
