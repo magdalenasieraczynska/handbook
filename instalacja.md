@@ -1,5 +1,5 @@
 
-# Instalacja środowiska dev na MacOS Moyave
+# Instalacja środowiska dev na MacOS Mojave
 
 * sprawdźmy czy mamy najnowszą wersję systemu jeśli nie to weźmy update
 * zmiana szybkości klawiatury w menu: System Preferences (keep repeat : Fast, Delay until Repeat: Short) Trackpad (Tracking speed: Fast) i myszy
