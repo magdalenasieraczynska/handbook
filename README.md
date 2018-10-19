@@ -22,7 +22,7 @@ Komentarze do kodu i PR piszemy w języku polskim
 
 ## Instalacja środowiska na MacOS
 
-* https://github.com/radgost/handbook/edit/master/instalacja.md
+* https://github.com/radgost/handbook/blob/master/instalacja.md
 
 ## Narzędzia / programy
 
