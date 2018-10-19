@@ -5,7 +5,7 @@
 * zmiana szybkości klawiatury w menu: System Preferences (keep repeat : Fast, Delay until Repeat: Short) Trackpad (Tracking speed: Fast) i myszy
 * zmiana w Terminal > Preferences > Profile terminala na Homebrew (czarny z zielonymi czcionkami), window 100x30, font 14,  zapis: Default
 * instalacja update-ow w AppStore
-* instalacja XCode, nie trzeba instlaować XCode z AppStore wystarczy:
+* instalacja XCode, nie trzeba instlaować XCode z AppStore,wystarczy:
 ```
 xcode-select --install
 ```
