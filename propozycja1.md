@@ -21,7 +21,7 @@ Zespół zadaniowy to głównie programiści i projektanci. Zadania i deadliny u
 * produkt: zespół produktowy pracuje przy jednym produkcie, zespół zadaniowy pracuje nad różnymi produktami
 
 ## Nadgodziny
-nie praktykujemy nadgodzin
+Nie praktykujemy nadgodzin. Jeśli każdy w normalnym czasie pracy ma czas na pracę nad swoimi zadaniami to to w zupełności wystrarcza. Nie ustalamy nierealnych deadlinów, ustalamy je wspólnie z zapasem i jeśli trzeba okrajamy początkowe wymagania.
 
 ## Godziny otwarte (propozycja ogólna - zobaczymy kto tego potrzebuje)
 Do wykonania zadania (np. programistycznego) potrzebne jest stałe, nieprzerwane skupienie. Dlatego też chcemy, aby osby pracujące nad zadaniami nie maiły stałych przerywników (czat, pytanie itp) - z drugiej storny osoby doświadcznoe powinny dzielić się wiedzą z innymi osobami w zespołach. Dlatego wprowadziliśmy "godziny otwarte" które może określić każda osoba i w tych dodzinach inne osoby z zespołu mogą jej "przeszkadzać" pytniami ew umwawiać się na spotkanie. Możę to być np. czas pomiędzy 13.00 a 15.00 w poniedziałek itp. 
