@@ -6,7 +6,7 @@ Mamy dwa typu zespołów: **Zespoły produktowe** i **Zespoły zadaniowe** któr
 
 Zespół produktowy odpowiada za to, aby dany produkt działał poprawnie, był aktualizowany (gemy, security patchs, zmiany w prawie itp), działał szybko i był rozwijany (produkt jest to oprogramowanie np: Fakturownia, Sugester itp). 
 Składa się z trzech podzespołów: **zespołu programistów**, 
-**zespołu wsparcia klientów** i **zespołu marketingowego**. Wszystkie podzespoły gdy urosną mają swoich "leadów" ew. dodatkowo wyznaczamy Produkt Managera. Produkt Manager i/lub "leadzi" podzespołów dbają o to, aby oprogramowanie "działało" i rozwijało się, aby pojawiali się nowi klienci i aby aktualni klienci byli zadowoleni z korzystania z oprogramowania (produktu). 
+**zespołu wsparcia klientów** i **zespołu marketingowego**. Wszystkie podzespoły, gdy urosną mają swoich "leadów" ew. dodatkowo wyznaczamy Produkt Managera. Produkt Manager i/lub "leadzi" podzespołów dbają o to, aby oprogramowanie "działało" i rozwijało się, aby pojawiali się nowi klienci i aby aktualni klienci byli zadowoleni z korzystania z oprogramowania (produktu). 
 
 ## Zespół zadaniowy
 
