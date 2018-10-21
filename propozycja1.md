@@ -15,7 +15,7 @@ Zespół zadaniowy (lub poszczególne osoby z zespołu) otrzymują zadania wraz 
 Zespół zadaniowy to głównie programiści i projektanci. Zadania i deadliny ustalamy wspólnie, często wraz z zespołami produktowymi. Jeśli zadanie jest duże i potrzeba do jego wykonania kilka osób to wyznaczamy jest "team lead" do tego zadania.
 
 ## Poprawianie błędów / pomoć działowi wsparcia użytkowników
-Do każdego produkty wyznaczana jest cyklicznie jedna osoba na tydzień która zajmuje się poprawianiem błędów i wsparciem dla działu supportu. Czyli np w zespole 4 osobowym będzie to jeden tydzień / m-c. Może być to osoba z zespołu produktowego lub z zespołu zadaniowego (jeśli aktuanie nie ma ustalonego zadania)
+Do każdego produkty wyznaczana jest cyklicznie jedna osoba w danym tygodniu, która zajmuje się poprawianiem błędów i wsparciem dla działu supportu. Czyli np w zespole 4 osobowym będzie to jeden tydzień / m-c. Z reguły są to osoby z zespołu produktowego ale mogą być też z zespołu zadaniowego (jednak tylko jeśli aktuanie nie pracuje nad swoim zadaniem)
 
 ## Róźnice pomiędzy zespołami produktowym a zadaniowym
 * deadliny: w zespołach produktowych jeśli pojawiają się "deadliney" to podchodzimy do nich mniej restrykcyjnie, gdyż podstawowym zadaniem zespołu produktowego jest "działanie" systemu i zawsze mogą pojawić się zadania nieprzewidziane. W zespołach zadaniowych "deadline" jest nieprzekraczalne i musi zostać stworzona nowa, działająca funkcjonalność (ew. czasem ograniczona w stosunku do początkowych wymagań)
