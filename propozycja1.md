@@ -25,3 +25,6 @@ Zespół zadaniowy to głównie programiści i projektanci. Zadania i deadliny u
 Do wykonania zadania (np. programistycznego) potrzebne jest stałe, nieprzerwane skupienie. Dlatego też checmy aby osby pracujące nad zadaniami nie maiły stałych przerywników (czat, pytanie itp) - z drugiej storny osoby doświadcznoe powinny dzielić się wiedzą z innymi osobami w zespołach. Dlatego wprowadziliśmy "godziny otwarte" które może określić każda osoba i w tych dodzinach inne osoby z zespołu mogą jej "przeszkadzać" pytniami ew umwawiać się na spotkanie. Możę to być np. czas pomiędzy 13.00 a 15.00 w poniedziałek itp. 
 
 Z godznami chcielibyśmy też wprowadzić miejsca ciszy (np. wydzielone pokoje w których się nie rozmawia, tak aby pozostałe osoby mogły pracować bez przerywników)
+
+## Nowe produkty
+Czanem wydzielamy zespoły osób, które pracują nad nowymi produktami, np. takim "nowym produktem" może być nowa wersja językowa sytemu. Nowy produkt otrzymuje budżet, terminy i minimalne wskażniki do osiągnięcia i jeśli uda się go uruchomić, wtedy zaczynamy dla tego nowego produktu budować zespoły Produktowy i Zadaniowy. Nowe produkty to jest trochę jak uruchamianie startupów i wiemy dobrze, że początkowe założenia są często wróżeniem z fusów :) )
