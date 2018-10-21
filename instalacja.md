@@ -111,5 +111,5 @@ brew install mc
 ```
 
 # Narzędzia i programy
-https://github.com/radgost/handbook#narz%C4%99dzia--programy
+* https://github.com/radgost/handbook/blob/master/narzedzia.md
 
