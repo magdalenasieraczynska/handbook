@@ -19,7 +19,7 @@ Zespół zadaniowy to głównie programiści i projektancji. Mogą oni oczywiśc
 * deadliny: w zespołach produktowych jeśli pojawiają się "deadliney" to podchodzimy do nich mniej restrykcyjnie, gdyż podstawowym zadaniem zespołu produktowego jest "działanie" systemu i zawsze mogą pojawić się zadania nieprzewidziane. W zespołach zadaniowych "deadline" jest nieprzekraczalne i musi zostać stworzona nowa, działająca funkcjonalność (ew. czasem ograniczona w stosunku do początkowych wymagań)
 * interakcje: w zespołach produktowych jest więcej "przerywników" ale też więcej "interakcji z ludzmi" z innych zespołów. W zespole zadaniowym otrzymujesz zadania i możesz przez wiele dni spędzić czas tylko na programowaniu.
 * praca zdalna: w zespole zadaniowym dopuszczamy część czasu pracy zdalnej, w zespole produktowym (z uwagi na częstsze interakcje) jest to bardziej ograniczone.
-* produkt: zespół produktowy pracyje przy jednym produkcie, zespół zadaniowy pracuje nad różnymi produktami
+* produkt: zespół produktowy pracyje przy jednym produkcie, zespół zadaniowy pracuje nad różnymi produktami (produkt jest to system np: Fakturownia, Sugester itp)
 
 
 ## Godziny otwarte (propozycja ogólna - zobaczymy kto tego potrzebuje)
