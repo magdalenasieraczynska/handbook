@@ -4,7 +4,8 @@ Mamy dwa typu zespołów: **Zespoły produktowe** i **Zespoły zadaniowe** któr
 
 ## Zespół produktowy 
 
-Zespół produktowy odpowiada za to, aby dany produkt działał poprawnie, był aktualizowany (gemy, security patchs, zmiany w prawie itp), działał szybko i był rozwijany. Składa się z trzech zespołów: **zespołu programistów**, 
+Zespół produktowy odpowiada za to, aby dany produkt działał poprawnie, był aktualizowany (gemy, security patchs, zmiany w prawie itp), działał szybko i był rozwijany (produkt jest to system np: Fakturownia, Sugester itp). 
+Składa się z trzech podzespołów: **zespołu programistów**, 
 **zespołu wsparcia klientów** i **zespołu marketingowego**. Wszystkie te zespoły mają swoich "leadów", którzy wspólnie pilnują 
 aby oprogramowanie "działało" i rozwijało się, aby pojawiali się nowi klienci i aby aktualni klienci byli zadowoleni 
 z korzystania z oprogramowania.
@@ -19,7 +20,7 @@ Zespół zadaniowy to głównie programiści i projektancji. Mogą oni oczywiśc
 * deadliny: w zespołach produktowych jeśli pojawiają się "deadliney" to podchodzimy do nich mniej restrykcyjnie, gdyż podstawowym zadaniem zespołu produktowego jest "działanie" systemu i zawsze mogą pojawić się zadania nieprzewidziane. W zespołach zadaniowych "deadline" jest nieprzekraczalne i musi zostać stworzona nowa, działająca funkcjonalność (ew. czasem ograniczona w stosunku do początkowych wymagań)
 * interakcje: w zespołach produktowych jest więcej "przerywników" ale też więcej "interakcji z ludzmi" z innych zespołów. W zespole zadaniowym otrzymujesz zadania i możesz przez wiele dni spędzić czas tylko na programowaniu.
 * praca zdalna: w zespole zadaniowym dopuszczamy część czasu pracy zdalnej, w zespole produktowym (z uwagi na częstsze interakcje) jest to bardziej ograniczone.
-* produkt: zespół produktowy pracyje przy jednym produkcie, zespół zadaniowy pracuje nad różnymi produktami (produkt jest to system np: Fakturownia, Sugester itp)
+* produkt: zespół produktowy pracyje przy jednym produkcie, zespół zadaniowy pracuje nad różnymi produktami
 
 
 ## Godziny otwarte (propozycja ogólna - zobaczymy kto tego potrzebuje)
