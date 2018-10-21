@@ -2,13 +2,14 @@
 # Instalacja środowiska dev na MacOS Mojave
 
 * sprawdźmy czy mamy najnowszą wersję systemu jeśli nie to weźmy update
-* zmiana szybkości klawiatury w menu: System Preferences (keep repeat : Fast, Delay until Repeat: Short) Trackpad (Tracking speed: Fast) i myszy
+* zmiana szybkości klawiatury w menu: System Preferences > Keyboard (keep repeat : Fast, Delay until Repeat: Short) Trackpad (Tracking speed: Fast) i myszy
 * zmiana w Terminal > Preferences > Profile terminala na Homebrew (czarny z zielonymi czcionkami), window 100x30, font 14,  zapis: Default
 * instalacja update-ow w AppStore
 * instalacja XCode, nie trzeba instlaować XCode z AppStore,wystarczy:
 ```
 xcode-select --install
 ```
+* warto wyłączyć powiększanie pierwszej litery (System Preferences > Keyboard > Text) i ew Correct Spelling (też w tym miejscu)
 
 ## instalacja Homebrew https://brew.sh/
 
