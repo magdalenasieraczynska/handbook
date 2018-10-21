@@ -21,3 +21,8 @@ Zespół zadaniowy to głównie programiści i projektancji. Mogą oni oczywiśc
 * interakcje: w zespołach produktowych jest więcej "przerywników" ale też więcej "interakcji z ludzmi" z innych zespołów. W zespole zadaniowym otrzymujesz zadania i możesz przez kilka tygodniu spędzić czas tylko na programowaniu.
 * praca zdalna: w zespole zadaniowym dopuszczamy część czasu pracy zdalnej, w zespole produktowym (z uwagi na częstsze interakcje) jest to bardziej ograniczone.
 
+
+## Godziny otwarte (propozycja ogólna - zobaczymy kto tego potrzebuje)
+Do wykonania zadania (np. programistycznego) potrzebne jest stałe, nieprzerwane skupienie. Dlatego też checmy aby osby pracujące nad zadaniami nie maiły stałych przerywników (czat, pytanie itp) - z drugiej storny osoby doświadcznoe powinny dzielić się wiedzą z innymi osobami w zespołach. Dlatego wprowadziliśmy "godziny otwarte" które może określić każda osoba i w tych dodzinach inne osoby z zespołu mogą jej "przeszkadzać" pytniami ew umwawiać się na spotkanie. Możę to być np. czas pomiędzy 13.00 a 15.00 w poniedziałek itp. 
+
+Z godznami chcielibyśmy też wprowadzić miejsca ciszy (np. wydzielone pokoje w których się nie rozmawia, tak aby pozostałe osoby mogły pracować bez przerywników)
