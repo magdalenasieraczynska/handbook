@@ -39,3 +39,4 @@ Czasem wydzielamy zespoły osób, które pracują nad nowymi produktami, np. ta
 * spotkania (cotygodniowe, sprinty itp)
 * sprawy formalne (umowy, urlopy itp)
 * rekrutacje
+* dodać workingOn 
