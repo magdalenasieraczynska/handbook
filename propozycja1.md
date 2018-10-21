@@ -8,6 +8,8 @@ Zespół produktowy odpowiada za to, aby dany produkt działał poprawnie, był 
 Składa się z trzech podzespołów: **zespołu programistów**, 
 **zespołu wsparcia klientów** i **zespołu marketingowego**. Wszystkie podzespoły, gdy urosną mają swoich "leadów" ew. dodatkowo wyznaczamy Produkt Managera. Produkt Manager i/lub "leadzi" podzespołów dbają o to, aby oprogramowanie "działało" i rozwijało się, aby pojawiali się nowi klienci i aby aktualni klienci byli zadowoleni z korzystania z oprogramowania (produktu). 
 
+Programiści w tym zespole zajmują się głównie programowaniem, ale są też wyznaczone osoby zajmujące się serwerami (devOps) oraz środowiskiem tworzenia oprogramowania.
+
 ## Zespół zadaniowy
 
 Zespół zadaniowy (lub poszczególne osoby z zespołu) otrzymują zadania wraz z terminem wykonania (deadline) i w danym czasie pracują tylko i wyłącznie nad tym jednym zadaniem. Czas na takie zadania powinien być od 1 do 6 tygodni. Termin, który wspólnie określimy na początku jest niezmienialny, ale możemy (i często to robimy) rezygnować z części początkowych wymagań (jeśli termin jest zagrożony). Chcemy, aby w określonym terminie powstała nowa funkcjonalność i była ona gotowa do użycia przez użytkowników. Jeśli części założeń nie uda się zrobić to i tak dane zadanie zostaje zakończone, a niezrealizowane wymagania mogą (ale nie muszą) pojawić się w nowych zadaniach w przyszłości (jeśli uznamy, że jednak warto je realizować).
