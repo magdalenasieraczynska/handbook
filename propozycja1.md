@@ -20,6 +20,8 @@ Zespół zadaniowy to głównie programiści i projektanci. Zadania i deadliny u
 * praca zdalna: w zespole zadaniowym dopuszczamy część czasu pracy zdalnej, w zespole produktowym (z uwagi na częstsze interakcje) jest to bardziej ograniczone.
 * produkt: zespół produktowy pracuje przy jednym produkcie, zespół zadaniowy pracuje nad różnymi produktami
 
+## Nadgodziny
+nie praktykujemy nadgodzin
 
 ## Godziny otwarte (propozycja ogólna - zobaczymy kto tego potrzebuje)
 Do wykonania zadania (np. programistycznego) potrzebne jest stałe, nieprzerwane skupienie. Dlatego też chcemy, aby osby pracujące nad zadaniami nie maiły stałych przerywników (czat, pytanie itp) - z drugiej storny osoby doświadcznoe powinny dzielić się wiedzą z innymi osobami w zespołach. Dlatego wprowadziliśmy "godziny otwarte" które może określić każda osoba i w tych dodzinach inne osoby z zespołu mogą jej "przeszkadzać" pytniami ew umwawiać się na spotkanie. Możę to być np. czas pomiędzy 13.00 a 15.00 w poniedziałek itp. 
@@ -28,3 +30,12 @@ Z godznami chcielibyśmy też wprowadzić miejsca ciszy (np. wydzielone pokoje 
 
 ## Nowe produkty
 Czasem wydzielamy zespoły osób, które pracują nad nowymi produktami, np. takim "nowym produktem" może być nowy sytem lub wersja i budowanie zespołu na nowy kraj. Nowy produkt otrzymuje budżet, terminy i minimalne wskażniki do osiągnięcia i jeśli uda się go uruchomić, wtedy zaczynamy dla tego nowego produktu budować zespoły Produktowy i Zadaniowy. Jeśli to możliwe to chcemy aby osoby zajmujące się nowym produktem były wyłączone z innych zadań / zespołów w tym czasie. Nowe produkty to jest trochę jak uruchamianie startupów i wiemy dobrze, że początkowe założenia to często wróżenie z fusów :) )
+
+
+## Inne do opisania
+* własne projekty po godzinach (czy można je robić i jakie)
+* stanowiska i pensje (wprowadznie stopniowania stanowisk i widełki pensji)
+* biuro a zespoły (ciche pokoje)
+* spotkania (cotygodniowe, sprinty itp)
+* sprawy formalne (umowy, urlopy itp)
+* rekrutacje
