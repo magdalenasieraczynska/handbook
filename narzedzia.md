@@ -1,6 +1,6 @@
 # Narzędzia i programy z których korzystamy
 
-# MacOS
+## MacOS
 
 * https://www.sublimetext.com/3 konfiguracja: https://github.com/radgost/handbook/blob/master/sublime.md
 * https://desktop.github.com/
