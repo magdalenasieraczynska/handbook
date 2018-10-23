@@ -99,6 +99,10 @@ cp /usr/local/Cellar/mysql\@5.6/5.6.36_1/support-files/my-default.cnf /usr/local
 echo 'max_allowed_packet=64M' >> /usr/local/etc/my.cnf
 
 
+## SSH
+* warto stworzyć plik .ssh/config
+* aby nie było błędów UTF w terminalach zdalnych trzeba odznaczyć Terminal > Preferences > Profiles > Advanced > Set locale environment variables at startup
+
 ```
 
 percona
