@@ -1,1 +1,0 @@
-przenoszę do docs
