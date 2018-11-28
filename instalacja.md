@@ -69,42 +69,6 @@ teraz można odpalić:
 http://radgost.test
 
 
-## Bazy danych 
-
-* PostgreSQL
-```
-brew install postgresql
-echo 'export PATH="/usr/local/opt/postgresql/bin:$PATH"' >> ~/.bash_profile
-brew services start postgresql
-
-# po tym powinno zadzialac podlaczenie do bazy 
-postgres -V
-psql postgres
-
-```
-https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb
-
-* MySQL
-
-```
-brew install mysql@5.6
-
-#wstawic do ~/.bash_profile aby dzialalo polecenie mysql:
-echo 'export PATH="/usr/local/opt/mysql@5.6/bin:$PATH"' >> ~/.bash_profile
-
-brew services start mysql@5.6
-
-cp /usr/local/Cellar/mysql\@5.6/5.6.36_1/support-files/my-default.cnf /usr/local/etc/my.cnf 
-
-echo 'max_allowed_packet=64M' >> /usr/local/etc/my.cnf
-
-```
-
-
-percona
-```
-brew install percona-toolkit
-```
 
 ## SSH
 * warto stworzyć plik .ssh/config
