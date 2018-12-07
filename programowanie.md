@@ -2,15 +2,15 @@
 
 ## Funkcje / klasy
 
-Kod wydzielamy do osobnej funkcji gdy:
-* aktualna funkcja jest bardzo duża i chcemy zwiększyć czytelność
-* dany kod (funkcja) będzie wywołana wiele razy
+Cześć kodu z danej funkcji/metody wydzielamy do osobnej funkcji tylko gdy:
+* aktualna funkcja jest bardzo duża i chcemy zwiększyć czytelność rozbijając ją na mniejsze
+* część kodu (nowa funkcja) będzie wywoływana wiele razy
 
-Kod jednej funkcji/metody wydzielamy do osobnego pliku/klasy gdy:
-* funkcja jest bardzo duża, powinna mieć wiele podfunkcji dla czytelności i całość jest ma skomplikowaną i dużą logikę
+Kod jednej funkcji/metody wydzielamy do osobnego pliku/klasy tylko gdy:
+* funkcja jest bardzo duża, powinna mieć wiele podfunkcji (prywatnych) dla czytelności i całość ma skomplikowaną i dużą logikę
 
 Styl kodowania
-* jeśli chcemy zmienić jakiś zastany w projekcie styl (podstyl) kodowania to musimy to omówić aby cały zespół na to się zgodził i przyją ten nowy (lepszy) 
+* jeśli chcemy zmienić jakiś zastany w projekcie styl (podstyl) kodowania to musimy to omówić, aby cały zespół na to się zgodził i przyją ten nowy (lepszy) styl
 
 ## Komentowanie
 Komentarze do kodu i PR piszemy w języku polskim
