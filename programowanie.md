@@ -1,5 +1,20 @@
 # Programowanie
 
+## Funkcje / klasy
+
+Kod wydzielamy do osobnej funkcji gdy:
+* aktualna funkcja jest bardzo duża i chcemy zwiększyć czytelność
+* dany kod (funkcja) będzie wywołana wiele razy
+
+Kod jednej funkcji/metody wydzielamy do osobnego pliku/klasy gdy:
+* funkcja jest bardzo duża, powinna mieć wiele podfunkcji dla czytelności i całość jest ma skomplikowaną i dużą logikę
+
+Styl kodowania
+* jeśli chcemy zmienić jakiś zastany w projekcie styl (podstyl) kodowania to musimy to omówić aby cały zespół na to się zgodził i przyją ten nowy (lepszy) 
+
+## Komentowanie
+Komentarze do kodu i PR piszemy w języku polskim
+
 ## Brancze
 
 * "master" - na nim jest kod, który jest też na produkcji
@@ -18,7 +33,7 @@
 * "do wgrania w nocy" (niebieskie) - dodaje twórca PR gdy np. jest migracja na bazie obciązająca serwer i lepiej wgrać ją w nocy
 * "w trakcie testów" (jasno niebieskie) - PR nieskończony, trwają testy lub ktoś go sprawdza
 
-Komentarze do kodu i PR piszemy w języku polskim
+
 
 ## Formatowanie kodu 
 
