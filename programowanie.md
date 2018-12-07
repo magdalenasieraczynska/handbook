@@ -26,7 +26,7 @@ Komentarze do kodu i PR piszemy w języku polskim
 ## Styl pisania w Ruby
 
 * staramy się nie używać "unless", a już na pewno nie używamy nigdy z || i &&
-* nie używamy "and", "or" - zamiast tego || i &&
+* nie używamy "and", "or" - zamiast tego zawsze: || i &&
 
 https://github.com/airbnb/ruby (gdyby zniknęło to jest fork https://github.com/radgost/ruby)
 
