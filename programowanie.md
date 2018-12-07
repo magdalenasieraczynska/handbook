@@ -24,6 +24,10 @@ Komentarze do kodu i PR piszemy w języku polskim
 ~~*.erb - 1 tab (czesem trudno sie połapać w tagach html i dlatego jest tab i dla erb powinien być 4 znakowy - konfiguracja w Sublime)~~
 
 ## Styl pisania w Ruby
+
+* staramy się nie używać "unless", a już na pewno nie używamy nigdy z || i &&
+* nie używamy "and", "or" - zamiast tego || i &&
+
 https://github.com/airbnb/ruby (gdyby zniknęło to jest fork https://github.com/radgost/ruby)
 
 
