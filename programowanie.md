@@ -21,6 +21,8 @@ Komentarze do kodu i PR piszemy w języku polskim
 *.rb - 2 spacje
 *.erb - 2 spacje (tak większość bibliotek js jest pisana i nie warto mieć innej konwencji)
 ```
+
+patrz konfiguracja Sublime: https://github.com/radgost/handbook/blob/master/sublime.md
 ~~*.erb - 1 tab (czesem trudno sie połapać w tagach html i dlatego jest tab i dla erb powinien być 4 znakowy - konfiguracja w Sublime)~~
 
 ## Styl pisania w Ruby
