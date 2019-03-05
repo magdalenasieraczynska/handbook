@@ -18,7 +18,9 @@ na pliku danego formatu (*.rb, *.js, *.erb itp) wybieramy Sublime Text > Prefere
 // These settings override both User and Default settings for the Ruby syntax
 {
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+
 }
 ```
 
