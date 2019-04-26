@@ -23,6 +23,7 @@ brew update
 ## instalacja języka Ruby
 
 ```
+brew install rbenv
 rbenv install -l #list ruby versions
 rbenv install 2.4.5 #uwaga tu nalezy sprawdzic jaka jest najwieksza wersja 
 rbenv global 2.4.5
