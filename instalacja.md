@@ -42,7 +42,7 @@ ruby -v
 
 ```
 brew install pow
-
+```
 
 Create the required host directories:
 ```
