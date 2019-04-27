@@ -25,8 +25,8 @@ brew update
 ```
 brew install rbenv
 rbenv install -l #list ruby versions
-rbenv install 2.4.5 #uwaga tu nalezy sprawdzic jaka jest najwieksza wersja 
-rbenv global 2.4.5
+rbenv install 2.4.6 #uwaga tu nalezy sprawdzic jaka jest najwieksza wersja 
+rbenv global 2.4.6
 
 echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.bash_profile
 source ~/.bash_profile
