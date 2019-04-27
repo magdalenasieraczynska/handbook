@@ -31,6 +31,8 @@ rbenv global 2.4.6
 echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.bash_profile
 source ~/.bash_profile
 
+# UWAGA - zamykamy terinal i otwieramy nowy
+
 # w nowym oknie termala powinna byc juz nowa wersja rubiego czyli np: ruby 2.4.6p354 (2019-04-01 revision 67394) [x86_64-darwin18]
 ruby -v
 
