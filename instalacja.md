@@ -44,14 +44,14 @@ ruby -v
 brew install pow
 ```
 
-Create the required host directories:
+odpalamy to co jest napisane po zainstalowaniu powa czyli np:
 ```
-  mkdir -p ~/Library/Application\ Support/Pow/Hosts
-  ln -s ~/Library/Application\ Support/Pow/Hosts ~/.pow
-  sudo pow --install-system
-  pow --install-local
-  sudo launchctl load -w /Library/LaunchDaemons/cx.pow.firewall.plist
-  launchctl load -w ~/Library/LaunchAgents/cx.pow.powd.plist
+mkdir -p ~/Library/Application\ Support/Pow/Hosts
+ln -s ~/Library/Application\ Support/Pow/Hosts ~/.pow
+sudo pow --install-system
+pow --install-local
+sudo launchctl load -w /Library/LaunchDaemons/cx.pow.firewall.plist
+launchctl load -w ~/Library/LaunchAgents/cx.pow.powd.plist
 ```  
  
 # fix do pow.cx (aby pokazywał poprawnie błędy w aplikacji zamiast "End of file reached"):
