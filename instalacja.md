@@ -56,12 +56,12 @@ launchctl load -w ~/Library/LaunchAgents/cx.pow.powd.plist
  
 # fix do pow.cx (aby pokazywał poprawnie błędy w aplikacji zamiast "End of file reached"):
 
+```
 # stara wersja curl -L https://gist.githubusercontent.com/RobinDaugherty/2731f20d303e6506d451384df2189210/raw/b52e6231170b3dce39633db29634dc892751910f/pow_better_errors_fix.patch | patch ~/Library/Application\ Support/Pow/Versions/0.6.0/node_modules/nack/lib/nack/server.rb
 
 curl -L https://gist.githubusercontent.com/RobinDaugherty/2731f20d303e6506d451384df2189210/raw/b52e6231170b3dce39633db29634dc892751910f/pow_better_errors_fix.patch | patch /usr/local/Cellar/pow/0.6.0/libexec/node_modules/nack/lib/nack/server.rb
-
-
 ```
+
 projekty
 
 ```
