@@ -12,7 +12,7 @@ subl .
 
 ## Odpalanie Sublime z przeglądarki (podczas będów Railsów)
 
-aby linki po bledach w przegladarce na DEV byly klikalne trzeba przeniesc do Applications apke z Subl.app.zip i uruchomic (dziala z Sublime 3 i 2) (apka sie od razu zamknie ale i tak linki zaczną działać - sprawdzon na Mac Book Air 2015.04.10 i Mac Book PRO 2015)
+aby linki po bledach w przegladarce na DEV byly klikalne trzeba przeniesc do Applications apke z Subl.app.zip (jest w katalogu extensions) i uruchomic (dziala z Sublime 3 i 2) (apka sie od razu zamknie ale i tak linki zaczną działać - sprawdzon na Mac Book Air 2015.04.10 i Mac Book PRO 2015)
 
 ## Formatowanie kodu
 
@@ -27,7 +27,6 @@ na pliku danego formatu (*.rb, *.js, *.erb itp) wybieramy Sublime Text > Prefere
 }
 ```
 
-
 ## Edytor kodu
 
 Używamy edytora Sublime 3. Skróty, które warto znać:
@@ -36,7 +35,6 @@ Używamy edytora Sublime 3. Skróty, które warto znać:
 * przechodzenie do linii : CMD + R
 * wyszukiwanie w całym projekcie : SHIFT + CMD + F
 * uruchanianie pluginów: CMD + SHIFT + P (lub instalacja nowych - trzeba wpisać "install...")
-
 
 
 ## Pluginy do Sublime
