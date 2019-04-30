@@ -1,13 +1,16 @@
 # Sublime
 
-http://www.sublimetext.com/3
+* wersja 3176 ostatna bez git (szybsza): https://download.sublimetext.com/Sublime%20Text%20Build%203176.dmg
+* wersja aktualna: https://www.sublimetext.com/3 
+
+## Skrót subl
 
 ```
 ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
 subl .
 ```
 
-Sublime > Preferences > Color Scheme > Mac Classic
+## Odpalanie Sublime z przeglądarki (podczas będów Railsów)
 
 aby linki po bledach w przegladarce na DEV byly klikalne trzeba przeniesc do Applications apke z Subl.app.zip i uruchomic (dziala z Sublime 3 i 2) (apka sie od razu zamknie ale i tak linki zaczną działać - sprawdzon na Mac Book Air 2015.04.10 i Mac Book PRO 2015)
 
