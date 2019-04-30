@@ -12,7 +12,8 @@ Kod jednej funkcji/metody wydzielamy do osobnego pliku/klasy tylko gdy:
 Styl kodowania
 * jeśli chcemy zmienić jakiś zastany w projekcie styl (podstyl) kodowania to musimy to omówić, aby cały zespół na to się zgodził i przyją ten nowy (lepszy) styl
 
-## Komentowanie
+## Język polski
+
 Komentarze do kodu i PR piszemy w języku polskim. Nazwy zmiennych i metod/funkcji po angielsku.
 
 ## Edytor kodu - Sublime
