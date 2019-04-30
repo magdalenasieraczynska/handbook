@@ -13,7 +13,12 @@ Styl kodowania
 * jeśli chcemy zmienić jakiś zastany w projekcie styl (podstyl) kodowania to musimy to omówić, aby cały zespół na to się zgodził i przyją ten nowy (lepszy) styl
 
 ## Komentowanie
-Komentarze do kodu i PR piszemy w języku polskim
+Komentarze do kodu i PR piszemy w języku polskim. Nazwy zmiennych i metod/funkcji po angielsku.
+
+## Edytor kodu - Sublime
+
+Używamy edytora Sublime.
+Nasza konfiguracja: https://github.com/radgost/handbook/blob/master/sublime.md
 
 ## Formatowanie kodu 
 
@@ -21,8 +26,6 @@ Komentarze do kodu i PR piszemy w języku polskim
 *.rb - 2 spacje
 *.erb - 2 spacje (tak większość bibliotek js jest pisana i nie warto mieć innej konwencji)
 ```
-
-Używamy edytora Sublime: https://github.com/radgost/handbook/blob/master/sublime.md
 
 ## Styl pisania w Ruby
 
