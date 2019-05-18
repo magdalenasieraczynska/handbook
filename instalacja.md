@@ -54,7 +54,7 @@ sudo launchctl load -w /Library/LaunchDaemons/cx.pow.firewall.plist
 launchctl load -w ~/Library/LaunchAgents/cx.pow.powd.plist
 ```  
  
-# fix do pow.cx (aby pokazywał poprawnie błędy w aplikacji zamiast "End of file reached"):
+### fix do pow.cx (aby pokazywał poprawnie błędy w aplikacji zamiast "End of file reached"):
 
 ```
 # stara wersja 
