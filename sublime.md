@@ -16,7 +16,7 @@ aby linki po bledach w przegladarce na DEV byly klikalne trzeba przeniesc do App
 
 ## Formatowanie kodu
 
-na pliku danego formatu (*.rb, *.js, *.erb itp) wybieramy Sublime Text > Preferences > Settings - Syntax Specific
+na pliku danego formatu (*.rb, *.js, *.erb itp) wybieramy Sublime Text > Preferences > Settings
 ```
 // These settings override both User and Default settings for the Ruby syntax
 {
