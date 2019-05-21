@@ -43,7 +43,9 @@ Używamy edytora Sublime 3. Skróty, które warto znać:
 * wyszukiwanie metody w pliku: CMD + R
 * przechodzenie do linii : CMD + R
 * wyszukiwanie w całym projekcie : SHIFT + CMD + F
-* uruchanianie pluginów: CMD + SHIFT + P (lub instalacja nowych - trzeba wpisać "install...")
+* uruchamianie pluginów: CMD + SHIFT + P i wybór metody...
+* instalacja pluginów  CMD + SHIFT + P, wybór "Package Control:: Install Package" i wybór pluginu
+
 
 
 ## Pluginy do Sublime
