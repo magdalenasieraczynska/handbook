@@ -23,7 +23,7 @@ na pliku danego formatu (*.rb, *.js, *.erb itp) wybieramy Sublime Text > Prefere
 	"trim_trailing_white_space_on_save": true,
 
 np:
-
+```
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"font_size": 11,
@@ -34,7 +34,6 @@ np:
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 }
-
 ```
 
 ## Edytor kodu
