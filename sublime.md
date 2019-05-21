@@ -16,11 +16,11 @@ aby linki po bledach w przegladarce na DEV byly klikalne trzeba przeniesc do App
 
 ## Formatowanie kodu
 
-na pliku danego formatu (*.rb, *.js, *.erb itp) wybieramy Sublime Text > Preferences > Settings
+na pliku danego formatu (*.rb, *.js, *.erb itp) lub globalnie - wybieramy Sublime Text > Preferences > Settings
 ```
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": true
 ```
 np:
 ```
@@ -32,7 +32,7 @@ np:
 	
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": true
 }
 ```
 
