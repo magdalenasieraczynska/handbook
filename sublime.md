@@ -28,10 +28,11 @@ np:
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"font_size": 11,
 	"theme": "Default.sublime-theme",
+	"update_check": false,
+	
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"update_check": false
 }
 
 ```
