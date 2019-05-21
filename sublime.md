@@ -18,13 +18,23 @@ aby linki po bledach w przegladarce na DEV byly klikalne trzeba przeniesc do App
 
 na pliku danego formatu (*.rb, *.js, *.erb itp) wybieramy Sublime Text > Preferences > Settings
 ```
-// These settings override both User and Default settings for the Ruby syntax
-{
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false
 
+np:
+
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 11,
+	"theme": "Default.sublime-theme",
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false
 }
+
 ```
 
 ## Edytor kodu
