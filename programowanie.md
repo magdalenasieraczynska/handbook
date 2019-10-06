@@ -19,7 +19,7 @@ Komentarze do kodu i PR piszemy w języku polskim. Nazwy zmiennych i metod/funkc
 ## Proces tworzenie kodu i PR (Pull-Requestów)
 
 Przed rozpoczęciem pracy nad zadaniem:
-* skonsultuj z DevLeadem to jak dane zadanie będzie wykonane (ta osoba będzie sprawdzała / mergowała PR i wiedzieć czego on dotyczy)
+* skonsultuj z DevLeadem to jak dane zadanie będzie wykonane (ta osoba będzie sprawdzała / mergowała PR i musi wiedzieć czego on dotyczy)
 * stwórze Branch, gdzie będziesz dodawał/dodawała zmiany w kodzie
 * stwórze PR, który zostanie sprawdzony i zmergowany 
 
