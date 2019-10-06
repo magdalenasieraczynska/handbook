@@ -10,7 +10,7 @@ Kod jednej funkcji/metody wydzielamy do osobnego pliku/klasy tylko gdy:
 * funkcja jest bardzo duża, powinna mieć wiele podfunkcji (prywatnych) dla czytelności i całość ma skomplikowaną i dużą logikę
 
 Styl kodowania
-* jeśli chcemy zmienić jakiś zastany w projekcie styl (podstyl) kodowania to musimy to omówić, aby cały zespół na to się zgodził i przyją ten nowy (lepszy) styl
+* jeśli chcemy zmienić jakiś zastany w projekcie styl (podstyl) kodowania to musimy to omówić, aby cały zespół zgodził się na te zmiany i przyjął ten nowy (lepszy) styl
 
 ## Język polski
 
@@ -25,7 +25,7 @@ Przed rozpoczęciem pracy nad zadaniem:
 Przed stworzeniem PR upewnij się że:
 * nazwa PR jest w języku polskim i jasno opisuje czego PR dotyczny
 * jest wpisane info o zadaniu którego dotyczy ten PR (opis lub link do zadania)
-* dodałeś/aś testy-automatyczne bezpośrednio lub pośrednio uruchamiają przynajmniej raz każdą metodę/funkcję/istotny kod, który był dodany/modyfikowany w danym PR (oraz te testy przechodzą lokalnie i na serwerze CI)
+* dodałeś/aś testy automatyczne, bezpośrednio lub pośrednio uruchamiają przynajmniej raz każdą metodę/funkcję/istotny kod, który był dodany/modyfikowany w danym PR (oraz te testy przechodzą lokalnie i na serwerze CI)
 
 
 ## Edytor kodu - Sublime
