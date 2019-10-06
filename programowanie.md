@@ -25,7 +25,7 @@ Przed rozpoczęciem pracy nad zadaniem:
 Przed stworzeniem PR upewnij się że:
 * nazwa PR jest w języku polskim i jasno opisuje czego PR dotyczny
 * jest wpisane info o zadaniu którego dotyczy ten PR (opis lub link do zadania)
-* dodałeś/aś testy-automatyczne do każdej metody która była dodana/modyfikowana w danym PR (i testy przechodzą)
+* dodałeś/aś testy-automatyczne które "dotykają" każdej metody, która była dodana/modyfikowana w danym PR (i testy przechodzą lokalnie i na serwerze CI)
 
 
 ## Edytor kodu - Sublime
