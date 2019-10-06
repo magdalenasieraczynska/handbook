@@ -16,6 +16,19 @@ Styl kodowania
 
 Komentarze do kodu i PR piszemy w języku polskim. Nazwy zmiennych i metod/funkcji po angielsku.
 
+## Proces tworzenie kodu i PR (Pull-Requestów)
+
+Przed rozpoczęciem pracy nad zadaniem:
+* skonsultuj z DevLeadem to jak dane zadanie będzie wykonane (ta osoba będzie sprawdzała / mergowała PR i wiedzieć czego on dotyczy)
+* stwórze Branch, gdzie będziesz dodawał/dodawała zmiany w kodzie
+* stwórze PR, który zostanie sprawdzony i zmergowany 
+
+Przed stworzeniem PR upewnij się że:
+* nazwa PR jest w języku polskim i jasno opisuje czego PR dotyczny
+* jest wpisane info o zadaniu którego dotyczy ten PR (opis lub link do zadania)
+* dodałeś/aś testy-automatyczne do każdej metody która była dodana/modyfikowana w danym PR (i testy przechodzą)
+
+
 ## Edytor kodu - Sublime
 
 Używamy edytora Sublime.
