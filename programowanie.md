@@ -26,6 +26,7 @@ Przed stworzeniem PR upewnij się że:
 * nazwa PR jest w języku polskim i jasno opisuje czego PR dotyczny
 * jest wpisane info o zadaniu którego dotyczy ten PR (opis lub link do zadania)
 * dodałeś/aś testy automatyczne, bezpośrednio lub pośrednio uruchamiają przynajmniej raz każdą metodę/funkcję/istotny kod, który był dodany/modyfikowany w danym PR (oraz te testy przechodzą lokalnie i na serwerze CI)
+* nie wrzucaj PR jeśli nie jest skończony, bo zostanie zamknięty w najbliższy piątek, chyba że ustalimy inaczej, zgodnie z https://github.com/radgost/handbook/blob/master/programowanie.md
 
 
 ## Edytor kodu - Sublime
